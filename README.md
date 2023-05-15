@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey there! I'm Padmanabh Kharat, a passionate and enthusiastic 13-year-old techie. 🌟 I was born in 2010 and have been captivated by the endless possibilities of programming.
+Hey there! I'm Padmanabh Kharat (he/him), a passionate and enthusiastic 13-year-old techie. 🌟 I was born in 2010 and have been captivated by the endless possibilities of programming.
 
 ## 🔧 Technologies and Tools
 
