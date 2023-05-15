@@ -7,13 +7,13 @@ Hey there! I'm Padmanabh Kharat, a passionate and enthusiastic 13-year-old techi
 ## 🔧 Technologies and Tools
 
 - Programming Languages: JavaScript
-- Frameworks: Node.js, React, Next.js
+- Frameworks: Node.js and React
 - Version Control: Git
 - Operating Systems: Linux
 
 ## 💡 What I Do
 
-I'm always seeking to expand my knowledge and learn new things. 🚀 Coding is my passion, and I have a knack for quickly grasping concepts and learning new technologies. With learnings in Node.js, React, and Next.js, I enjoy crafting innovative solutions and pushing the boundaries of what's possible in web development. I'm also actively involved in open-source contributions, leveraging the power of collaboration.
+I'm always seeking to expand my knowledge and learn new things. 🚀 Coding is my passion, and I have a knack for quickly grasping concepts and learning new technologies. With learnings in Node.js, React, I enjoy crafting innovative solutions and pushing the boundaries of what's possible in web development. I'm also actively involved in open-source contributions, leveraging the power of collaboration.
 
 ## 🌐 Connect with Me
 
