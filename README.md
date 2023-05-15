@@ -1,7 +1,5 @@
 # Welcome to My Profile! 👋
 
-![Profile Banner](https://path-to-your-banner-image)
-
 ## About Me
 
 Hey there! I'm Padmanabh Kharat, a passionate and enthusiastic 13-year-old techie. 🌟 I was born in 2010 and have been captivated by the endless possibilities of programming.
@@ -15,7 +13,7 @@ Hey there! I'm Padmanabh Kharat, a passionate and enthusiastic 13-year-old techi
 
 ## 💡 What I Do
 
-I'm always seeking to expand my knowledge and learn new things. 🚀 Coding is my passion, and I have a knack for quickly grasping concepts and learning new technologies. With expertise in Node.js, React, and Next.js, I enjoy crafting innovative solutions and pushing the boundaries of what's possible in web development. I'm also actively involved in open-source contributions, leveraging the power of collaboration.
+I'm always seeking to expand my knowledge and learn new things. 🚀 Coding is my passion, and I have a knack for quickly grasping concepts and learning new technologies. With learnings in Node.js, React, and Next.js, I enjoy crafting innovative solutions and pushing the boundaries of what's possible in web development. I'm also actively involved in open-source contributions, leveraging the power of collaboration.
 
 ## 🌐 Connect with Me
 
